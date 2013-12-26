@@ -56,6 +56,5 @@
         </div>
       </div><!-- #content -->
     </div><!-- #main -->
-<script src="http://localhost/getwidget.php?city=5&time=7&position=1" type="text/javascript"></script>    
  </body>
 </html>
